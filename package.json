@@ -1,7 +1,7 @@
 {
-  "name": "hikaru-challenge",
+  "name": "hikaru-challenge-updated",
   "version": "0.1.0",
-  "homepage": "https://c-ehrlich.github.io/hikaru-challenge",
+  "homepage": "https://shawntarou.github.io/hikaru-challenge-updated",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
